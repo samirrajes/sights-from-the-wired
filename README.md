@@ -5,7 +5,7 @@ Note: Source code is included in Releases tab not within the repo.
 > A zero-player Unreal Engine simulation that transforms real-time network traffic into an emergent social ecosystem, where each IP address becomes an autonomous agent navigating a retro cyberdimension.
 
 **Full project write-up:** [Read on my portfolio](https://samirsfolder.com)  
-**Demo video:** [Watch on YouTube](https://youtu.be/YOUR_VIDEO_LINK)
+**Demo video:** Working on it !
 
 |  |  |
 |--|--|
