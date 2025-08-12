@@ -1,14 +1,14 @@
 # Sights from the Wired – Real-Time Network Traffic Social Simulation
 
-|  |  |
-|--|--|
-| <img src="https://github.com/user-attachments/assets/b0aa9ee2-346b-43d0-b2d0-9614855bb108" width="500px"/> | <img src="https://github.com/user-attachments/assets/1f7de6f3-2fee-42ca-84c1-5a6a84f0f5f5" width="500px"/> |
-| <img src="https://github.com/user-attachments/assets/a5c0a0b3-75a7-4dab-a0cb-1767f9242968" width="500px"/> | <img src="https://github.com/user-attachments/assets/a3e7f18d-cf52-445f-96e3-66a07105126e" width="500px"/> |
-
 > A zero-player Unreal Engine simulation that transforms real-time network traffic into an emergent social ecosystem, where each IP address becomes an autonomous agent navigating a retro cyberdimension.
 
 **Full project write-up:** [Read on my portfolio](https://samirsfolder.com)  
 **Demo video:** [Watch on YouTube](https://youtu.be/YOUR_VIDEO_LINK)
+
+|  |  |
+|--|--|
+| <img src="https://github.com/user-attachments/assets/b0aa9ee2-346b-43d0-b2d0-9614855bb108" width="500px"/> | <img src="https://github.com/user-attachments/assets/1f7de6f3-2fee-42ca-84c1-5a6a84f0f5f5" width="500px"/> |
+| <img src="https://github.com/user-attachments/assets/a5c0a0b3-75a7-4dab-a0cb-1767f9242968" width="500px"/> | <img src="https://github.com/user-attachments/assets/a3e7f18d-cf52-445f-96e3-66a07105126e" width="500px"/> |
 
 ---
 
