@@ -44,7 +44,7 @@ The simulation is inspired by *Serial Experiments Lain*, reimagining networked d
 ## How to Run
 
 1. **Download**
-   - From the [Releases](https://github.com/YOUR_USERNAME/sights-from-the-wired/releases) page, download:
+   - From the [Releases](https://github.com/samirrajes/sights-from-the-wired/releases) page, download:
      - `PacketStream.zip`
      - `send_packets.sh`
 
